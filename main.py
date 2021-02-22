@@ -1,6 +1,6 @@
 print("Zadanie 1")
 shopping = {
-    "piekarnia": ["chleb", "bułki", "pączek", "ptyś"],
+    "piekarnia": ["pączek", "ptyś"],
     "warzywniak": ["marchew", "seler", "jabłka"]
 }
 for key, value in shopping.items():
